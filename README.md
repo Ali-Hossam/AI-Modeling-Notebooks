@@ -8,7 +8,7 @@ Welcome to the AI Modeling Notebooks repository! This collection of Jupyter note
 | Notebook Name | Description | Category | Link | Status |
 | --- | --- | --- | --- | --- |
 | Digits classifier - from scratch neural network | Build your own MNIST Digit Classifier using a custom neural network. | Classification | [Link](https://colab.research.google.com/drive/1BUChvOdK_RVkSPUvtlMjkp8Pq22r2fb2?usp=sharing) | Finished |
-| Audio classification with spectrograms | Classify urban sounds using spectrograms, CNNs, and transfer learning with UrbanSound8k dataset. | Classification | [Link](https://colab.research.google.com/drive/1Z9y3wystxpxCrLnJigwO5KWJR9WmSNE8?usp=sharing) | In-Progress |
+| Audio classification with spectrograms | Classify urban sounds using spectrograms, CNNs, and transfer learning with UrbanSound8k dataset. | Classification | [Link](https://colab.research.google.com/drive/1Z9y3wystxpxCrLnJigwO5KWJR9WmSNE8?usp=sharing) | Finished |
 | ResNet Arabic sign language | Build a ResNet from scratch for Arabic sign language recognition. | Classification | [Link](https://colab.research.google.com/drive/1ftDX0uv5XTgNXcfM1DG_DerW1g3Wsjfl?usp=sharing) | In-Progress |
 | Custom FCN | Build a Fully Convolutional Network from scratch for image segmentation. | Segmentation | [Link](https://colab.research.google.com/drive/1wkxTkxa_gfliUefliaiq3XTLWkC5Qftt?usp=sharing) | In-Progress |
 | Multi-Class Classification with CIFAR Dataset | Utilize transfer learning techniques for accurate classification of images in the CIFAR dataset. | Classification | [Link](https://github.com/Ali-Hossam/CIFAR-transfer-learning) | Finished |
